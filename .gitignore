@@ -1,0 +1,12 @@
+# Ignore Data folder and all its subdirectories
+Data/
+
+# Ignore virtual environment folders
+.venv/
+venv/
+
+#Ignore Idea editors an vs
+.vs/
+.idea/
+
+.DS_Store
